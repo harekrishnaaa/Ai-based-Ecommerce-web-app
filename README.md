@@ -46,7 +46,7 @@ We had some previous releases too that we did not initially commit to the repo.
     * Work in progress
 
 ## Development setup
-Developement setup is pretty simple, first you just need to install all dependencies which is already given in package.json file and then kust run the web app with the commands given below.
+Developement setup is pretty simple, first you just need to install all dependencies which is already given in package.json file and then just run the web app with the commands given below.
 
 - For Client -
 
